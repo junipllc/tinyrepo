@@ -1,0 +1,17 @@
+{
+    "name": "swsdev/t",
+    "autoload": {
+        "psr-4": {
+            "Swsdev\\T\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sdf",
+            "email": "2@234.com"
+        }
+    ],
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
+}
